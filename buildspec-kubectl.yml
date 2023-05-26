@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "user23-product-pipeline"
+    _PROJECT_NAME: "user23-products"
 
 phases:
   install:
